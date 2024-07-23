@@ -1,0 +1,28 @@
+# Diretórios de cache e estado do Visual Studio
+.vs/
+
+# Diretórios de avaliação de projetos
+.vs/ProjectEvaluation/
+
+# Binários e artefatos de compilação
+bin/
+obj/
+
+# Arquivos de simbologia de depuração
+*.pdb
+
+# Arquivos de configuração gerados automaticamente
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.assets.cache
+*.csproj.FileListAbsolute.txt
+*.sourcelink.json
+*.dtbcache.v2
+*.futdcache.v2
+*.suo
+
+# Arquivos NuGet
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache

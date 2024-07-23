@@ -1,0 +1,6 @@
+@Kombi.Dashboard.WebApi_HostAddress = http://localhost:5058
+
+GET {{Kombi.Dashboard.WebApi_HostAddress}}/startup/
+Accept: application/json
+
+###
